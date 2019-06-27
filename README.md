@@ -1,2 +1,2 @@
-# Romania-DC-tm1-rm01-production-k8s-objects
+# lamp_stack
 It is Deployment purpose
